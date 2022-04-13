@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\jaini\\envs\\MiniProject\\Scripts\\python.exe",
+    "python.formatting.provider": "yapf"
+}
